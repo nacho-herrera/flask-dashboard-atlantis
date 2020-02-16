@@ -8,6 +8,15 @@
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
 - UI Kit: [Dashboard Alantis](https://github.com/app-generator/fork-dashboard-atlantis-html) by **Themekita**
+- MIT License
+
+<br />
+
+## Dashboard Links
+
+- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - the product page
+- [Flask Dashboard Atlantis](https://flask-dashboard-atlantis.appseed.us/login.html) - LIVE Demo
+- [Flask Dashboard Atlantis](https://docs.appseed.us/admin-dashboards/flask-dashboard-atlantis/) - documentation
 
 <br />
 
