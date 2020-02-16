@@ -7,7 +7,7 @@
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
-- UI Kit: [Dashboard Alantis](https://github.com/app-generator/fork-dashboard-atlantis-html) by **Themekita**
+- UI Kit: [Dashboard Alantis](https://github.com/app-generator/fork-dashboard-atlantis-html) by **[Themekita](https://www.themekita.com/?ref=appseed)**
 - MIT License
 
 <br />
