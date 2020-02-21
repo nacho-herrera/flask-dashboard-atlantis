@@ -17,7 +17,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Product page
-- [Flask Dashboard Atlantis](https://docs.appseed.us/admin-dashboards/flask-dashboard-atlantis/) - documentation
+- [Flask Dashboard Atlantis](https://docs.appseed.us/admin-dashboards/flask-dashboard-atlantis/) - Documentation
 - [Flask Dashboard Atlantis](https://flask-dashboard-atlantis.appseed.us/login.html) - LIVE Demo
 
 <br />
