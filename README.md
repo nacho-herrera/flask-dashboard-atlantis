@@ -44,11 +44,11 @@ $ git clone https://github.com/app-generator/flask-dashboard-atlantis.git
 $ cd flask-dashboard-atlantis
 $
 $ # Virtualenv modules installation (Unix based systems)
-$ virtualenv --no-site-packages env
+$ virtualenv env
 $ source env/bin/activate
 $
 $ # Virtualenv modules installation (Windows based systems)
-$ # virtualenv --no-site-packages env
+$ # virtualenv env
 $ # .\env\Scripts\activate
 $ 
 $ # Install requirements
