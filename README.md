@@ -1,4 +1,4 @@
-# [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
+# [Flask Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -13,11 +13,11 @@
 
 > Links
 
-- [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Product page
-- [Flask Dashboard Atlantis](https://docs.appseed.us/admin-dashboards/flask-dashboard-atlantis/) - Documentation
-- [Flask Dashboard Atlantis](https://flask-dashboard-atlantis.appseed.us/login.html) - LIVE Demo
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
+- [Flask Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Product page
+- [Flask Dashboard Atlantis Docs](https://docs.appseed.us/admin-dashboards/flask-dashboard-atlantis/) - Documentation
+- [Flask Dashboard Atlantis Demo](https://flask-dashboard-atlantis.appseed.us/login.html) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -168,4 +168,4 @@ A dashboard is a set of pages that are easy to read and offer information to the
 <br />
 
 ---
-**[Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Atlantis Design](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
