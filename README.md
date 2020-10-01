@@ -1,6 +1,8 @@
-# [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
+# [Flask Atlantis Lite](https://appseed.us/admin-dashboards/flask-dashboard-atlantis)
 
-> Open-Source Flask Dashboard seed project provided by AppSeed on top of **Atlantis Lite** a modern and free Bootstrap 4 Template - Features:
+Open-Source **Flask Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **Atlantis Lite**, a modern Bootstrap dashboard design. **Atlantis Lite** is a free bootstrap 4 admin dashboard that is beautifully and elegantly designed to display various metrics, numbers or data visualization. Atlantis Lite admin dashboard has 2 layouts, many plugins and UI components to help developers create dashboards quickly and effectively so they can save development time and also help users to make the right and fast decisions based on existing data.
+
+> Features:
 
 - UI Kit: **Atlantis Lite** (Lite Version) provided by **ThemeKita**
 - DBMS: SQLite, PostgreSQL (production) 
@@ -22,9 +24,9 @@
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
-| [Flask AtlantisDark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
+| [Flask Atlantis Dark PRO](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
 | --- | --- | --- |
-| [![Flask AtlantisDark PRO](https://github.com/app-generator/flask-dashboard-atlantis-dark-pro/blob/master/media/flask-dashboard-atlantis-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
+| [![Flask Atlantis Dark PRO](https://github.com/app-generator/flask-dashboard-atlantis-dark-pro/blob/master/media/flask-dashboard-atlantis-dark-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-atlantis-dark-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
 <br />
 <br />
@@ -304,4 +306,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Atlantis Lite](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
