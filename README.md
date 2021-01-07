@@ -21,7 +21,7 @@ Atlantis Lite is a free bootstrap 4 admin dashboard that is beautifully and eleg
 
 - [Flask Dashboard Atlantis](https://appseed.us/admin-dashboards/flask-dashboard-atlantis) - product page
 - [Flask Dashboard Atlantis - Demo](https://flask-dashboard-atlantis.appseed.us/) - LIVE Deployment
-- [Atlantis Lite - UI Documentation](https://atlantis-lite.appseed.us/)
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
